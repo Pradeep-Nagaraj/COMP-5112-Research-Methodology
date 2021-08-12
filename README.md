@@ -7,4 +7,4 @@ Hacking, specifically cracking computer systems, is the primary cause of this in
 [Crypto Is Everywhere, But Should You Invest?](https://www.forbes.com/sites/robertfarrington/2021/01/18/crypto-is-everywhere-but-should-you-invest/?sh=6da1dbcc7e73)
 
 #Contribute
-Contributions are always welcome! Please reffer the [contribution guidelines]()
+Contributions are always welcome! Please reffer the [contribution guidelines](Contribution_Guidelines.txt)
