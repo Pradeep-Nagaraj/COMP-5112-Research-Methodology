@@ -11,10 +11,11 @@ The internet has accelerated the digitalization of several activities such as ba
 Despite the fact that internet security is improving, hackers continue to find ways to breach systems. As a result, the need to protect systems from hackers necessitates the promotion of Ethical Hackers, who will fight back against illegal attacks on our computer systems. Ethical hacking is the process of examining security flaws and identifying prospective security vulnerabilities for an organization in charge of the information technology environment under attack [3]. Ethical hackers utilize the same methods to evaluate a security system as their less ethical counterparts, but instead of exploiting flaws, they report them. Ethical hacking and penetration testing are often used interchangeably since they are so closely related. There is, however, a narrow line of distinction between these two terms [4]. Penetration testing is a term that refers to the process of detecting vulnerabilities, dangers, and target environments in order to secure and take control of a system. Ethical hacking, on the other hand, is a broad concept that encompasses all hacking techniques as well as other computer attack strategies. So, in addition to identifying security flaws and vulnerabilities and verifying the target system's security, it goes beyond hacking the system but with authorization to protect the security for future purposes. In general, to carry out tasks, an ethical hacker will need access to each of an organization's systems, whereas a pentester simply needs access to the area of interest.
 
 # Research Questions:
- Who are Ethical Hacker's and what they do? <br>
- Why do we need Ethical Hackers? <br>
- How Ethical hackers approach towards finding intruders? <br>
- Is Ethical Hacking “Ethical”? <br>
+
+ RQ1: Who are Ethical Hacker's and what they do? <br>
+ RQ2: Why do we need Ethical Hackers? <br>
+ RQ3: How Ethical hackers approach towards finding intruders? <br>
+ RQ4: Is Ethical Hacking “Ethical”? <br>
 
 #Contribute
 Contributions are always welcome! Please reffer the [contribution guidelines](Contribution_Guidelines.txt)
