@@ -6,9 +6,29 @@ Hacking, specifically cracking computer systems, is the primary cause of this in
 
 # Philosophy
 
-The internet has accelerated the digitalization of several activities such as banking, online purchases, online financial transactions, collaborative computing, e-mail, and new avenues for advertising, information distribution, and data gathering. With the rapid development of the internet and the increasing number of users, the risk of data security is increasing, and the problem of information security is becoming extremely important. Because most technical advancements have made all information available online, some people use it to gain knowledge, while others use it to disrupt or steal information from websites or databases without the owner's knowledge. HACKING is the terminology used for this dark side. Hacking is the alteration of computer hardware, software, or networks to achieve goals that are not aligned with the interests of the users.
+Despite the fact that internet security is improving, hackers continue to find ways to breach systems. As a result, the need to protect systems from hackers necessitates the promotion of Ethical Hackers, who will fight back against illegal attacks on our computer systems. Ethical hacking is the process of examining security flaws and identifying prospective security vulnerabilities for an organization in charge of the information technology environment under attack. Ethical hackers utilize the same methods to evaluate a security system as their less ethical counterparts, but instead of exploiting flaws, they report them. Ethical hacking and penetration testing are often used interchangeably since they are so closely related. There is, however, a narrow line of distinction between these two terms. Penetration testing is a term that refers to the process of detecting vulnerabilities, dangers, and target environments in order to secure and take control of a system. Ethical hacking, on the other hand, is a broad concept that encompasses all hacking techniques as well as other computer attack strategies. So, in addition to identifying security flaws and vulnerabilities and verifying the target system's security, it goes beyond hacking the system but with authorization to protect the security for future purposes. In general, to carry out tasks, an ethical hacker will need access to each of an organization's systems, whereas a pentester simply needs access to the area of interest.
 
-Despite the fact that internet security is improving, hackers continue to find ways to breach systems. As a result, the need to protect systems from hackers necessitates the promotion of Ethical Hackers, who will fight back against illegal attacks on our computer systems. Ethical hacking is the process of examining security flaws and identifying prospective security vulnerabilities for an organization in charge of the information technology environment under attack [3]. Ethical hackers utilize the same methods to evaluate a security system as their less ethical counterparts, but instead of exploiting flaws, they report them. Ethical hacking and penetration testing are often used interchangeably since they are so closely related. There is, however, a narrow line of distinction between these two terms [4]. Penetration testing is a term that refers to the process of detecting vulnerabilities, dangers, and target environments in order to secure and take control of a system. Ethical hacking, on the other hand, is a broad concept that encompasses all hacking techniques as well as other computer attack strategies. So, in addition to identifying security flaws and vulnerabilities and verifying the target system's security, it goes beyond hacking the system but with authorization to protect the security for future purposes. In general, to carry out tasks, an ethical hacker will need access to each of an organization's systems, whereas a pentester simply needs access to the area of interest.
+### Ethical Hacking Tools
+**Name**  |  **Description**
+----  |  ----
+IP lookup |	Allows the identification of the IP in use with a geographical location
+MAC lookup |	Allows the identification of the type of the device and the manufacturer
+BSSID |	Used to identify a particular BSS (Basic Service Set) within an area based on geographically locating the device in real time
+Maltego	| Used to correlate and determine relationships between people, names, phone numbers, email addresses, companies, organizations and social network profiles.
+AirCrack-ng |	It works by collecting network packets and then analysing and using them to break Wifi access. It has complete support for 802.11 WEP and WPA-PSK networks It works by capturing network packets and then analysing and using them to crack Wifi access.
+Angry IP scanner |	Scans for online IPs and available hosts within a small range, medium range and up to a broadcast range (single or multi IP scan)
+Nmap |	Network Mapper used for network discovery along security auditing
+Znmap |	GUI Nmap version for network diagnosis
+Tracert |	Ensures a network analysis and diagnosis, identifies the track of the sent packet from an IP address to another.
+ OSForensics | 	Forensic tool used to delete the log files, audit files and registry files beyond recovery.
+Aircrack |	Used for 802.11a/b/g WEP and WPA cracking, used for brute force and dictionary password attacks alike
+Wireshark |	Captures real-time network data packets before being displayed in readable.
+John The Ripper |	Password cracking penetration testing tool used for dictionary attacks
+Metasploit |	Cyber security framework that provides vital information about known security vulnerabilities, ensures penetration testing exploitation strategies, methodologies and plans
+Beast |	Remote Administration Tool or a "RAT" horse used to create backdoors
+
+![image](https://user-images.githubusercontent.com/18245715/129287145-b4b883a8-af20-4bba-bfe5-322e1b2d4f05.png)
+
 
 # Research Questions
 
