@@ -8,18 +8,25 @@ Hacking, specifically cracking computer systems, is the primary cause of this in
 
 Despite the fact that internet security is improving, hackers continue to find ways to breach systems. As a result, the need to protect systems from hackers necessitates the promotion of Ethical Hackers, who will fight back against illegal attacks on our computer systems. Ethical hacking is the process of examining security flaws and identifying prospective security vulnerabilities for an organization in charge of the information technology environment under attack. Ethical hackers utilize the same methods to evaluate a security system as their less ethical counterparts, but instead of exploiting flaws, they report them. Ethical hacking and penetration testing are often used interchangeably since they are so closely related. There is, however, a narrow line of distinction between these two terms. Penetration testing is a term that refers to the process of detecting vulnerabilities, dangers, and target environments in order to secure and take control of a system. Ethical hacking, on the other hand, is a broad concept that encompasses all hacking techniques as well as other computer attack strategies. So, in addition to identifying security flaws and vulnerabilities and verifying the target system's security, it goes beyond hacking the system but with authorization to protect the security for future purposes. In general, to carry out tasks, an ethical hacker will need access to each of an organization's systems, whereas a pentester simply needs access to the area of interest.
 
-# Features of Ethical Hacking:
-1. Confidentiality  
-2. Availability 
-3. Integrity 
-4. Authentication 
-5. Non-Repuditiation
+## Research Questions
+
+ RQ1: Who are Ethical Hacker's and what they do? <br>
+ RQ2: Why do we need Ethical Hackers? <br>
+ RQ3: How Ethical hackers approach towards finding intruders? <br>
+ RQ4: Is Ethical Hacking “Ethical”? <br>
 
 ## Types of Hackers
 
 * **Black Hat** - who hack in order to gain unauthorized access to a system and harm its operations or steal sensitive information.
 * **White Hat** -  who never intent to harm a system, rather they try to find out weaknesses in a computer or a network system as a part of penetration testing and vulnerability assessments
 * **Grey Hat** - They are a blend of both black hat and white hat hackers.
+
+## Features of Ethical Hacking:
+1. Confidentiality  
+2. Availability 
+3. Integrity 
+4. Authentication 
+5. Non-Repuditiation
 
 ## Ethical Hacking Life-cycle
 
@@ -67,14 +74,6 @@ Beast |	Remote Administration Tool or a "RAT" horse used to create backdoors
 * Do not exceed the client's established boundaries when undertaking ethical hacking. It is feasible to have access beyond the target areas that the client signed up for in ethical hacking. Stay within the system or network's target areas as specified in the work agreement.
 * Transparency guarantees that the client is aware of what is happening, and that the client can take the required steps to ensure the system's security. Potential threats to any e-commerce clients, the Internet community, or the public that you reasonably suspect are associated with a certain set or kind of electronic transactions, or related software or hardware should be disclosed to authorized persons or authorities.
 * Do not share any of the private or confidential information discovered during the hacking with anyone. Ethical hacking is rendered useless when the client's confidential information is revealed.
-
-
-## Research Questions
-
- RQ1: Who are Ethical Hacker's and what they do? <br>
- RQ2: Why do we need Ethical Hackers? <br>
- RQ3: How Ethical hackers approach towards finding intruders? <br>
- RQ4: Is Ethical Hacking “Ethical”? <br>
  
  ## NEWS
  
