@@ -15,7 +15,7 @@ Despite the fact that internet security is improving, hackers continue to find w
 4. Authentication 
 5. Non-Repuditiation
 
-## Types of HackerS
+## Types of Hackers
 
 * **Black Hat** - who hack in order to gain unauthorized access to a system and harm its operations or steal sensitive information.
 * **White Hat** -  who never intent to harm a system, rather they try to find out weaknesses in a computer or a network system as a part of penetration testing and vulnerability assessments
@@ -31,6 +31,13 @@ Despite the fact that internet security is improving, hackers continue to find w
 * **Reporting** - Ethical Hacker creates a report detailing his findings and the work he performed, including the tools he used, the success rate, vulnerabilities discovered, and exploit methods, as well as recommendations.
 
 ![image](Ethical_Hacking_Methodology.png)
+
+## Lab Setup / Installation
+
+Softwares required to perfrom Ethical Hacking
+
+* **VMware:** https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+* **Kali Download:** https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 
 ## Ethical Hacking Tools
 
