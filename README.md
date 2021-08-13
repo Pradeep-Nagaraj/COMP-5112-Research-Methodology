@@ -1,10 +1,10 @@
-## Ethical Hacking : A Review on Tools,Techniques and Approaches
+# Ethical Hacking : A Review on Tools,Techniques and Approaches
 
-# Project Description
+## Project Description
 
 Hacking, specifically cracking computer systems, is the primary cause of this insecurity. Hacking is a procedure in which an individual or group exploits a system’s flaw for personal gain or enjoyment. Ethical hacking is the technique of breaking into a network with good intentions and in an ethical manner to protect the system from being hacked. For organizations and governments, ethical hacking, also known as penetration testing or intrusion testing, has become a major concern. Companies are concerned about being “hacked”, while potential customers are concerned about keeping control of their personal information.
 
-# Motivation
+## Motivation
 
 Despite the fact that internet security is improving, hackers continue to find ways to breach systems. As a result, the need to protect systems from hackers necessitates the promotion of Ethical Hackers, who will fight back against illegal attacks on our computer systems. Ethical hacking is the process of examining security flaws and identifying prospective security vulnerabilities for an organization in charge of the information technology environment under attack. Ethical hackers utilize the same methods to evaluate a security system as their less ethical counterparts, but instead of exploiting flaws, they report them. Ethical hacking and penetration testing are often used interchangeably since they are so closely related. There is, however, a narrow line of distinction between these two terms. Penetration testing is a term that refers to the process of detecting vulnerabilities, dangers, and target environments in order to secure and take control of a system. Ethical hacking, on the other hand, is a broad concept that encompasses all hacking techniques as well as other computer attack strategies. So, in addition to identifying security flaws and vulnerabilities and verifying the target system's security, it goes beyond hacking the system but with authorization to protect the security for future purposes. In general, to carry out tasks, an ethical hacker will need access to each of an organization's systems, whereas a pentester simply needs access to the area of interest.
 
@@ -15,13 +15,13 @@ Despite the fact that internet security is improving, hackers continue to find w
 4. Authentication 
 5. Non-Repuditiation
 
-# Types of Hacker
+## Types of HackerS
 
 * **Black Hat** - who hack in order to gain unauthorized access to a system and harm its operations or steal sensitive information.
 * **White Hat** -  who never intent to harm a system, rather they try to find out weaknesses in a computer or a network system as a part of penetration testing and vulnerability assessments
 * **Grey Hat** - They are a blend of both black hat and white hat hackers.
 
-# Ethical Hacking Life-cycle
+## Ethical Hacking Life-cycle
 
 * **Reconnaissance** -  Information gathering Phase to collect knowledge about systems or people.
 * **Scanning** - Scanning is based on pen testing to identify any security or vulnerability gaps that could be exploited to carry out an attack.
@@ -32,7 +32,7 @@ Despite the fact that internet security is improving, hackers continue to find w
 
 ![image](Ethical_Hacking_Methodology.png)
 
-# Ethical Hacking Tools
+## Ethical Hacking Tools
 
 **Name**  |  **Description**
 ----  |  ----
@@ -52,7 +52,7 @@ John The Ripper |	Password cracking penetration testing tool used for dictionary
 Metasploit |	Cyber security framework that provides vital information about known security vulnerabilities, ensures penetration testing exploitation strategies, methodologies and plans
 Beast |	Remote Administration Tool or a "RAT" horse used to create backdoors
 
-# Ethics in Ethical Hacking
+## Ethics in Ethical Hacking
 
  As per the EC-Council code of ethics, an ethical hacker must ensure
 * Before hacking, identify and determine the security and privacy of any organization's data, as well as any rules and regulations that may apply.
@@ -62,14 +62,14 @@ Beast |	Remote Administration Tool or a "RAT" horse used to create backdoors
 * Do not share any of the private or confidential information discovered during the hacking with anyone. Ethical hacking is rendered useless when the client's confidential information is revealed.
 
 
-# Research Questions
+## Research Questions
 
  RQ1: Who are Ethical Hacker's and what they do? <br>
  RQ2: Why do we need Ethical Hackers? <br>
  RQ3: How Ethical hackers approach towards finding intruders? <br>
  RQ4: Is Ethical Hacking “Ethical”? <br>
  
- # NEWS
+ ## NEWS
  
 * [Metasploit](https://www.metasploit.com/)
 * [NMAP Security](https://nmap.org/)
@@ -82,10 +82,10 @@ Beast |	Remote Administration Tool or a "RAT" horse used to create backdoors
 * [Decade-old Arcadyan Firmware Vulnerability Risks Millions Of Routers Attribution link](https://latesthackingnews.com/2021/08/11/decade-old-arcadyan-firmware-vulnerability-risks-millions-of-routers/)
 
 
-# Contribute
-Contributions are always welcome! Please refer the [contribution guidelines](Contribution_Guidelines.md) file.
+## Contribute
+Contributions are always welcome! Please refer the [contribution guidelines](Contribution_Guidelines.md) file for more information.
 
-# Manifest
+## Manifest
 **README.md** - The file is the brief description of the survey done with main points. <br>
 **Contribution_Guidelines.md** - Contains contribution guidelines for all pull requests. <br>
 **Ethical-Hacking-Literature-Review.pdf** - Literature review report on Ethical hacking. <br>
