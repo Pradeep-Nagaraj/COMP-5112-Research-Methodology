@@ -16,6 +16,19 @@ Despite the fact that internet security is improving, hackers continue to find w
  RQ2: Why do we need Ethical Hackers? <br>
  RQ3: How Ethical hackers approach towards finding intruders? <br>
  RQ4: Is Ethical Hacking “Ethical”? <br>
+ 
+ # NEWS
+ 
+* "Metasploit" - https://www.metasploit.com/
+* "NMAP Security" - https://nmap.org/
+* "Apple pays ethical hackers $288k for finding 55 vulnerabilities" - https://www.itpro.co.uk/security/ethical-hacking/357380/apple-pays-ethical-hackers-288k-for-finding-55-vulnerabilities
+* "Mobile banking apps are exposing user data to attackers" - https://www.itpro.co.uk/security/ethical-hacking/356252/poorly-secured-banking-apps-lead-to-cyber-threats
+* "How do you become an ethical hacker?" -  https://www.itpro.co.uk/641470/so-you-want-to-be-an-ethical-hacker
+* "The proliferation of hacking as a service is giving cybersecurity experts nightmares " - https://economictimes.indiatimes.com/tech/internet/the-proliferation-of-hacking-as-a-service-is-giving-cybersecurity-experts-nightmares/articleshow/76787932.cms
+* "Many BellTroxes: Delhi is now India’s hacker hub" - https://economictimes.indiatimes.com/tech/internet/many-belltroxes-delhi-is-now-indias-hacker-hub/articleshow/76304052.cms
+* "India's Ethical Hackers Rewarded Abroad, Ignored at Home" - https://gadgets.ndtv.com/internet/features/indias-ethical-hackers-rewarded-abroad-ignored-at-home-1705103
+* "Decade-old Arcadyan Firmware Vulnerability Risks Millions Of Routers Attribution link" - https://latesthackingnews.com/2021/08/11/decade-old-arcadyan-firmware-vulnerability-risks-millions-of-routers/
+
 
 #Contribute
 Contributions are always welcome! Please reffer the [contribution guidelines](Contribution_Guidelines.txt)
