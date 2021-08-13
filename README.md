@@ -34,14 +34,15 @@ Despite the fact that internet security is improving, hackers continue to find w
 Contributions are always welcome! Please refer the [contribution guidelines](Contribution_Guidelines.txt) file.
 
 # Manifest
-Contribution_Guidelines.md - Contains contribution guidelines for all pull requests. <br>
-Ethical-Hacking-Literature-Review.pdf - Literature review report on Ethical hacking. <br>
-Ethical_Hacking_Methodology.png - Image of Ethical hacking phases or life-cycle. <br>
-Ethical_Hacking_Tools.png - Image of major Ethical hacking tools and its descriptions. <br>
-Hacking_Methodology.png - Image of Hacking phases or methodology. <br>
-Pradeep-Nagaraj-Final-Report.pdf - Final Research report on Ethical Hacking: A Review on Tools,Techniques and Approaches. <br>
-Pradeep-Nagaraj-Lab-Journal.pdf - Final lab journal which contains different phases of research starting from topic selection to finishing the research. <br>
-Project-Proposal.pdf - Contains project proposal details. <br>
-README.md - The file is the brief description of the survey done with main points. <br>
+**README.md** - The file is the brief description of the survey done with main points. <br>
+**Contribution_Guidelines.md** - Contains contribution guidelines for all pull requests. <br>
+**Ethical-Hacking-Literature-Review.pdf** - Literature review report on Ethical hacking. <br>
+**Ethical_Hacking_Methodology.png** - Image of Ethical hacking phases or life-cycle. <br>
+**Ethical_Hacking_Tools.png** - Image of major Ethical hacking tools and its descriptions. <br>
+**Hacking_Methodology.png** - Image of Hacking phases or methodology. <br>
+**Project-Proposal.pdf** - Contains project proposal details. <br>
+**Pradeep-Nagaraj-Final-Report.pdf** - Final Research report on Ethical Hacking: A Review on Tools,Techniques and Approaches. <br>
+**Pradeep-Nagaraj-Lab-Journal.pdf** - Final lab journal which contains different phases of research starting from topic selection to finishing the research.
+
 
 
