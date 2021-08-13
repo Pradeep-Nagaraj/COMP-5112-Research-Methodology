@@ -27,7 +27,14 @@ John The Ripper |	Password cracking penetration testing tool used for dictionary
 Metasploit |	Cyber security framework that provides vital information about known security vulnerabilities, ensures penetration testing exploitation strategies, methodologies and plans
 Beast |	Remote Administration Tool or a "RAT" horse used to create backdoors
 
-![image](https://user-images.githubusercontent.com/18245715/129287145-b4b883a8-af20-4bba-bfe5-322e1b2d4f05.png)
+# Ethics in Ethical Hacking
+
+ As per the EC-Council code of ethics [10], an ethical hacker must ensure
+* Before hacking, identify and determine the security and privacy of any organization's data, as well as any rules and regulations that may apply.
+* By depending on your creativity and efforts to protect other people's intellectual property, you may ensure that all advantages go to the creator.
+* Do not exceed the client's established boundaries when undertaking ethical hacking. It is feasible to have access beyond the target areas that the client signed up for in ethical hacking. Stay within the system or network's target areas as specified in the work agreement.
+* Transparency guarantees that the client is aware of what is happening, and that the client can take the required steps to ensure the system's security. Potential threats to any e-commerce clients, the Internet community, or the public that you reasonably suspect are associated with a certain set or kind of electronic transactions, or related software or hardware should be disclosed to authorized persons or authorities.
+* Do not share any of the private or confidential information discovered during the hacking with anyone. Ethical hacking is rendered useless when the client's confidential information is revealed.
 
 
 # Research Questions
