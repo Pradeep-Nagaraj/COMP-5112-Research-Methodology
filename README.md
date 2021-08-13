@@ -17,18 +17,20 @@ Despite the fact that internet security is improving, hackers continue to find w
 
 # Types of Hacker
 
-* Black Hat - who hack in order to gain unauthorized access to a system and harm its operations or steal sensitive information.
-* White Hat -  who never intent to harm a system, rather they try to find out weaknesses in a computer or a network system as a part of penetration testing and vulnerability assessments
-* Grey Hat - They are a blend of both black hat and white hat hackers.
+* **Black Hat** - who hack in order to gain unauthorized access to a system and harm its operations or steal sensitive information.
+* **White Hat** -  who never intent to harm a system, rather they try to find out weaknesses in a computer or a network system as a part of penetration testing and vulnerability assessments
+* **Grey Hat** - They are a blend of both black hat and white hat hackers.
 
 # Ethical Hacking Life-cycle
 
-* Reconnaissance -  Information gathering Phase to collect knowledge about systems or people.
-* Scanning - Scanning is based on pen testing to identify any security or vulnerability gaps that could be exploited to carry out an attack.
-* Gaining Access - To gain access to the system, once vulnerabilities have been found and all necessary information has been gathered.
-* Maintaining Access - The system's resources can be exploited by looking for additional common vulnerable devices to maintain access.
-* Clearing Tracks - The attacker will attempt to erase his traces using tools or erasing the logs.
-* Reporting - Ethical Hacker creates a report detailing his findings and the work he performed, including the tools he used, the success rate, vulnerabilities discovered, and exploit methods, as well as recommendations.
+* **Reconnaissance** -  Information gathering Phase to collect knowledge about systems or people.
+* **Scanning** - Scanning is based on pen testing to identify any security or vulnerability gaps that could be exploited to carry out an attack.
+* **Gaining Access** - To gain access to the system, once vulnerabilities have been found and all necessary information has been gathered.
+* **Maintaining Access** - The system's resources can be exploited by looking for additional common vulnerable devices to maintain access.
+* **Clearing Tracks** - The attacker will attempt to erase his traces using tools or erasing the logs.
+* **Reporting** - Ethical Hacker creates a report detailing his findings and the work he performed, including the tools he used, the success rate, vulnerabilities discovered, and exploit methods, as well as recommendations.
+
+![image](Ethical_Hacking_Methodology.png)
 
 # Ethical Hacking Tools
 
