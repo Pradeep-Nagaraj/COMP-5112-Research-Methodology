@@ -88,7 +88,7 @@ Beast |	Remote Administration Tool or a "RAT" horse used to create backdoors
 * [Decade-old Arcadyan Firmware Vulnerability Risks Millions Of Routers Attribution link](https://latesthackingnews.com/2021/08/11/decade-old-arcadyan-firmware-vulnerability-risks-millions-of-routers/)
 
 ## Support
-For any dounts or information, you can reach me through my mail at nagarajp@lakeheadu.ca
+For any doubts or information, you can reach me through my mail at nagarajp@lakeheadu.ca
 
 ## Acknowledgement
 I express my sincere gratitude to Dr. Trevor M. Tomesh for sharing his able guidance and amazing expertise throughout my project.
