@@ -87,9 +87,17 @@ Beast |	Remote Administration Tool or a "RAT" horse used to create backdoors
 * [India's Ethical Hackers Rewarded Abroad, Ignored at Home](https://gadgets.ndtv.com/internet/features/indias-ethical-hackers-rewarded-abroad-ignored-at-home-1705103)
 * [Decade-old Arcadyan Firmware Vulnerability Risks Millions Of Routers Attribution link](https://latesthackingnews.com/2021/08/11/decade-old-arcadyan-firmware-vulnerability-risks-millions-of-routers/)
 
+## Support
+For any dounts or information, you can reach me through my mail at nagarajp@lakeheadu.ca
+
+## Acknowledgement
+I express my sincere gratitude to Dr. Trevor M. Tomesh for sharing his able guidance and amazing expertise throughout my project.
 
 ## Contribute
 Contributions are always welcome! Please refer the [contribution guidelines](Contribution_Guidelines.md) file for more information.
+
+## Project Status
+My goal is to carry out this project on a larger scale by implementing all the Ethical hacking tools and find the efficient way to use these tools.
 
 ## Manifest
 **README.md** - The file is the brief description of the survey done with main points. <br>
